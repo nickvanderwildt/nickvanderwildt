@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Nick, a VP of Technology at Adyen by day, and a programming enthusiast by night. My self-taught journey in programming went from Ruby (on Rails), to Python, Javascript, Elixir, and finally to Golang. In the end, I tend to pick Ruby or Golang depending on the project, as it helps me get stuff done the fastest.
 
 <!--
 **nickvanderwildt/nickvanderwildt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
